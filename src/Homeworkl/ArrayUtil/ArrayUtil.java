@@ -1,7 +1,7 @@
 package Homeworkl.ArrayUtil;
 
-public class ArrayUtil {
-    public static void main(String[] args) {
+/* public class ArrayUtil {
+   public static void main(String[] args) {
         //  տպել բոլոր էլեմենտները
         int[] Array = {2, 5, 9, 4, 90, 0, 45, 6, 76, 87};
         for (int i = 0; i < Array.length; i++) {
@@ -74,3 +74,4 @@ public class ArrayUtil {
 
 
 }
+*/
